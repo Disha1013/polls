@@ -40,4 +40,6 @@ python manage.py runserver
 6. Open in browser:
 http://127.0.0.1:8000/
 
+## LOOM VIDEO:
+https://www.loom.com/share/60934a41dc444ef4a6b56c1f0f1b999a
 
