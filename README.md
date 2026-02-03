@@ -19,22 +19,22 @@ The goal of this task was to set up a Django application, create a basic **Polls
   
 ## How to run this project
 
-1. Clone the repository
-git clone <repository-url>
+1. Clone the repository: 
+git clone <repository-url> , 
 cd Week1-django
 
-2. Create and activate virtual environment
-python -m venv venv
+2. Create and activate virtual environment: 
+python -m venv venv , 
 venv\Scripts\activate
 
-3. Install dependencies
+3. Install dependencies: 
 pip install -r requirements.txt
 
-4. Apply migrations
-cd mysite
+4. Apply migrations:  
+cd mysite , 
 python manage.py migrate
 
-5. Run the server
+5. Run the server: 
 python manage.py runserver
 
 6. Open in browser:
