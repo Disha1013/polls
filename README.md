@@ -37,6 +37,7 @@ http://127.0.0.1:8000/
 https://www.loom.com/share/60934a41dc444ef4a6b56c1f0f1b999a
 
 
+
 ## **Day 2 Task:** 
 This contains my **Day-2** work
 
@@ -50,6 +51,22 @@ This contains my **Day-2** work
 
 ## Loom Video:
 https://www.loom.com/share/e1f32bee5a244223a10062741b8b9003
+
+
+## **Day 3 Task:**
+This conatins my **Day-3** work.
+
+## What I implemented:
+- Created dynamic views to fetch data from the database using Django ORM
+- Replaced hardcoded HttpResponse with render() to serve HTML templates
+- Implemented templates using Django Template Language for clean separation of logic and UI
+- Dynamic URL routing using URL parameters
+- Implemented URL namespacing 
+- Created a detail page for each question
+
+## Loom Video:
+https://www.loom.com/share/5fa930858fe6445aa460bd7bcc93d3bc
+
 
 
 
