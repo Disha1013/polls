@@ -1,6 +1,6 @@
 # Django – (Polls App)
 
-**Day 1 Task:**
+## **Day 1 Task:**
 This contains my **Day 1 work**  
 The goal of this task was to set up a Django application, create a basic **Polls App**, define models, configure URLs, and push the code to GitHub.
 
@@ -37,7 +37,7 @@ http://127.0.0.1:8000/
 https://www.loom.com/share/60934a41dc444ef4a6b56c1f0f1b999a
 
 
-**Day 2 Task:** 
+## **Day 2 Task:** 
 This contains my **Day-2** work
 
 ## What I Implemented
