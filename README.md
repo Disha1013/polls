@@ -65,8 +65,29 @@ This conatins my **Day-3** work.
 - Created a detail page for each question
 
 ## Loom Video:
-https://www.loom.com/share/5fa930858fe6445aa460bd7bcc93d3bc
+https://www.loom.com/share/5fa930858fe6445aa460bd7bcc93d3bc 
 
 
 
+## **Day 4 Task:**
 
+This contains my **Day-4** work.
+
+### What I Implemented
+
+- Updated the poll **detail page** to display choices using an HTML form
+- Implemented **radio buttons** dynamically using Django Template Language
+- Added **CSRF protection** for secure form submissions
+- Implemented **vote functionality** to record user responses
+- Used **POST requests** to handle form submissions correctly
+- Implemented **Post/Redirect/Get pattern** to prevent duplicate voting
+- Created a **results page** to display vote counts for each choice
+- Used Django’s **pluralize** template filter for better result formatting
+- Converted function-based views to **generic class-based views**:
+  - `IndexView`
+  - `DetailView`
+  - `ResultsView`
+- Implemented clean **URL routing using primary keys (pk)**
+
+### Loom Video:
+https://www.loom.com/share/e7ffea06f66b4515b9f017936479a8e7
