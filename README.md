@@ -91,3 +91,21 @@ This contains my **Day-4** work.
 
 ### Loom Video:
 https://www.loom.com/share/e7ffea06f66b4515b9f017936479a8e7
+
+
+## **Day 5 Task:**
+
+This contains my **Day-5** work.
+
+### What I Implemented
+
+- Added unit tests for the Question model and verified correct behavior of was_published_recently().
+- Wrote tests for Index, Detail, and Results views to ensure future questions are hidden or return 404.
+- Updated view querysets using Django ORM to exclude future-dated questions.
+- Secured the vote functionality to prevent voting on unpublished polls.
+- Explored Django ORM behavior using the Django shell.
+- Verified all functionality by running the complete test suite.
+
+### Loom Video:
+https://www.loom.com/share/935fa97211e641539e3dd2efe6fc35af
+
