@@ -109,3 +109,18 @@ This contains my **Day-5** work.
 ### Loom Video:
 https://www.loom.com/share/935fa97211e641539e3dd2efe6fc35af
 
+
+## **Day 6 Task:**
+
+This contains my **Day-6** work.
+
+### What I Implemented
+
+- Enhanced the Polls index page UI using Django templates and static files
+- Added custom CSS styling and background image for the Polls page
+- Customized the Django Admin interface branding using base_site.html
+- Applied admin background and text styling using safe static overrides
+- Followed Django’s recommended approach without modifying core files
+
+### Loom Video:
+https://www.loom.com/share/1ed9b922ec544ee7b1cd09bf2d61082d
