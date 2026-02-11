@@ -123,4 +123,24 @@ This contains my **Day-6** work.
 - Followed Django’s recommended approach without modifying core files
 
 ### Loom Video:
-https://www.loom.com/share/1ed9b922ec544ee7b1cd09bf2d61082d
+https://www.loom.com/share/1ed9b922ec544ee7b1cd09bf2d6108
+
+
+## **Day 7 Task:**
+
+This contains my **Day-7** work.
+
+### What I Implemented
+
+- Customized Django Admin interface for the Polls app
+- Added TabularInline to edit Choices directly within the Question admin page
+- Improved Question list view using:
+    - list_display to show multiple columns
+    - list_filter for sidebar filtering
+    - search_fields to enable search functionality
+- Converted boolean output to admin icons using .boolean = True
+- Enabled sorting using admin_order_field
+- Added date_hierarchy for Year → Month → Day navigation
+
+### Loom Video:
+https://www.loom.com/share/cbed362690b24eea9b2fde9d65bf4afc
